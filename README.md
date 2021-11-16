@@ -1,7 +1,7 @@
-<h1 align="center"><a><img src="https://github.com/rafaelrodrigopa/Projeto-Web/blob/main/title.svg"></a></h1>
+<h1 align="center"><a><img src="https://github.com/rafaelrodrigopa/Projeto-Web/blob/main/title.svg" width="250"></a></h1>
 
 <h3 align="center">
-  Sistema web feito com HTML/CSS/JavaScript e JQuery.
+  Sistema web para controle de ocorrências de furtos, inibições e outros.
 </h3>
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">

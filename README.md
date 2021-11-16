@@ -3,6 +3,9 @@
 <h3 align="center">
   Sistema web para controle de ocorrências de furtos, inibições e outros.
 </h3>
+
+<a href="https://controlofevents.000webhostapp.com/index.php" target="-blank">Acessar sistema Control of events</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">
 

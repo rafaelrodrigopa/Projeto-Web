@@ -4,7 +4,9 @@
   Sistema web para controle de ocorrências de furtos, inibições e outros.
 </h3>
 
-<a href="https://controlofevents.000webhostapp.com/index.php" target="-blank">Acessar sistema Control of events</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center">:black_flag::black_flag::black_flag::black_flag::black_flag::black_flag: &nbsp;&nbsp;&nbsp;
+<a href="https://controlofevents.000webhostapp.com/index.php" target="-blank">Acessar sistema Control of events</a>&nbsp;&nbsp;&nbsp;:black_flag::black_flag::black_flag::black_flag::black_flag::black_flag:
+ </p>
 
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">

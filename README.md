@@ -18,7 +18,7 @@
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">
+<img alt="GitHub top language" src="https://img.shields.io/badge/javascript-74.3%25-blue">
 
 </p>
 

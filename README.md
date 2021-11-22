@@ -10,6 +10,8 @@
  <p align="center">:black_flag::black_flag::black_flag::black_flag::black_flag::black_flag: &nbsp;&nbsp;&nbsp;
 <a href="#info" target="-blank"> Informações dos desenvolvedores </a>&nbsp;&nbsp;&nbsp;:black_flag::black_flag::black_flag::black_flag::black_flag::black_flag:
  </p>
+ 
+ <p align="center" style="color:#ff0000" >:point_right::point_right::point_right::point_right:&nbsp;&nbsp;&nbsp;Documentação&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left::point_left:</p>
 
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">

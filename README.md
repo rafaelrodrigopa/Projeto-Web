@@ -11,7 +11,7 @@
 <a href="#info" target="-blank"> Informações dos desenvolvedores </a>&nbsp;&nbsp;&nbsp;:black_flag::black_flag::black_flag::black_flag::black_flag::black_flag:
  </p>
  
- <p align="center" style="color:#ff0000" >:point_right::point_right::point_right::point_right:&nbsp;&nbsp;&nbsp;<a href="https://github.com/rafaelrodrigopa/Projeto-Web/tree/main/Documenta%C3%A7%C3%A3o">Documentação</a>&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left::point_left:</p>
+ <p align="center" style="color:#ff0000" >:point_right::point_right::point_right::point_right:&nbsp;&nbsp;&nbsp;<a href="https://github.com/rafaelrodrigopa/Projeto-
 
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rafaelrodrigopa/rafaelrodrigopa.github.io?style=plastic">

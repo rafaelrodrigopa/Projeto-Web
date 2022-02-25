@@ -45,20 +45,6 @@
 <a name="conl">![Arquivo_compativel](https://github.com/rafaelrodrigopa/Projeto-Web/blob/main/readme/consulta_lancamentos.PNG)</a>
 <a name="ext">![Arquivo_compativel](https://github.com/rafaelrodrigopa/Projeto-Web/blob/main/readme/extracao_lancamentos.PNG)</a>
 
-<HR>
-
-<a name="info">
-<h3>Desenvolvedores</h3></BR>
-  
-  FELIPE LIPPELT </BR>
-  RAFAEL RODRIGO PEREIRA DE ALMEIDA </BR>
-  THAMIRES DE ARAÚJO PEREIRA </BR>
-  VICTOR SALVIANO</BR>
-  VICTOR HUGO FERNANDES DA SILVA</BR>
-  
-</a>
-
-<HR>
  
 <a name="info"><h3>Sobre o sistema</h3></BR>
   
